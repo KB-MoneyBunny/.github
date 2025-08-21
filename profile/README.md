@@ -1,4 +1,5 @@
 # 머니버니 :rabbit:
+<img width="1086" height="558" alt="스크린샷 2025-08-21 오후 2 05 01" src="https://github.com/user-attachments/assets/84a06b20-94d4-4eca-8139-3fecc05684f2" />
 
 안녕하세요, MZ 세대를 위한 맞춤형 금융 생활 플랫폼 "머니버니"입니다.
 
@@ -49,36 +50,34 @@
 
 ---
 
-### ​​ 사용 기술 (Tech Stack)
+### 사용 기술
 
-#### ​ Front-End
-![Vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+Front-End <br>
+![Vue](https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-#### ​​ Back-End
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<br>
 
-#### ​ Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ERDCloud](https://img.shields.io/badge/ERDCloud-00AEEF?style=for-the-badge)
+---
 
-#### ​ Tools & IDEs
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+Back-End <br>
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+<br>
 
-#### ​ Auth & Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)  
-![OAuth2](https://img.shields.io/badge/OAuth2-3D7EBB?style=for-the-badge)  
-![CSRF](https://img.shields.io/badge/CSRF-FF6F61?style=for-the-badge)
+---
 
-#### ​ API & Integration
-![CODEF API](https://img.shields.io/badge/CODEF_API-4F46E5?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+Databases <br>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+[![ERDCloud](https://img.shields.io/badge/ERDCloud-Online%20ERD-blue?style=for-the-badge)](https://www.erdcloud.com/)
 
-#### ​ DevOps & Collaboration
-![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+### Tools & IDEs
+
+![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+
+![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -108,63 +107,77 @@
 
 ## 역할 상세
 
-> ### 안홍영
-
-백엔드
-
----
-
-> ### 박상일
-
-백엔드
+> ### 안홍영  
+팀장 / 백엔드 & 프론트 / GitHub / DB  
 
 ---
 
-> ### 박성빈
-
-프론트엔드
-
----
-
-> ### 서은진
-
-프론트엔드
+> ### 박상일  
+PM / 백엔드 & 프론트 / DB / CI/CD  
 
 ---
 
-> ### 윤제승
-
-백엔드
-
----
-
-> ### 최유정
-
-백엔드
+> ### 박성빈  
+프론트 & 백엔드 / UX / DB  
 
 ---
 
----
-
-## Result
-
-### Architecture
-
-<img width="2481" height="1540" alt="image" src="https://github.com/user-attachments/assets/524ae0f6-1132-4525-9350-d9af2bba9245" />
-
-### ERD
-
-<img width="2926" height="1186" alt="image" src="https://github.com/user-attachments/assets/d61b2c16-02ab-4da6-87f9-35a75beb1f01" />
+> ### 서은진  
+프론트 / UI·UX / DB  
 
 ---
 
-## Discussion
+> ### 윤제승  
+백엔드 & 프론트 / DB 
+
+---
+
+> ### 최유정  
+백엔드 & 프론트 / DB
+
+
+---
+
+## 🛠️ 개발 환경 및 설치 방법
+
+🛠️ 개발 환경
+
+Language & Framework: Java 17, Spring Boot 3.x, React 18, Node.js 20
+
+Database: MySQL 8.0, Redis
+
+Infra & Tools: Docker, GitHub Actions(CI/CD), Nginx
+
+IDE & Build: IntelliJ IDEA, VS Code, Gradle/Maven
+
+---
+
+## System Architecture 
+
+<img width="1001" height="581" alt="시스템아키텍처_13회차_1팀(MoneyBunny)" src="https://github.com/user-attachments/assets/30af3773-4a53-431d-b8ba-67f4e3e579b2" />
+
+
+---
+
+## ERD
+
+<img width="1461" height="517" alt="스크린샷 2025-08-21 오전 11 56 35" src="https://github.com/user-attachments/assets/83e30d7f-15bd-4e1d-a31a-116354afc786" />
 
 ---
 
 ## Communication
 
-### Naming Convetion
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/bfa30c0c-c08b-4d43-b417-e7732cc2c8d2" />
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/274b0e8c-9c2c-4d4f-9a36-a51ff1653be2" />
+
+### 주요 기능 소개
+
+<img width="1085" height="561" alt="스크린샷 2025-08-21 오후 2 18 11" src="https://github.com/user-attachments/assets/1c837a1b-8b28-41c8-9afd-9043b42d9c4f" />
+<img width="1085" height="561" alt="스크린샷 2025-08-21 오후 2 17 55" src="https://github.com/user-attachments/assets/b32cca16-eaf3-4fe9-a461-3b098ddeb24c" />
+<img width="1084" height="562" alt="스크린샷 2025-08-21 오후 2 17 38" src="https://github.com/user-attachments/assets/161e4453-ef26-4e61-96a9-1124e43b2c3f" />
+<img width="1084" height="561" alt="스크린샷 2025-08-21 오후 2 17 28" src="https://github.com/user-attachments/assets/a86a96a0-c174-4de4-819e-afc44a17f74c" />
+<img width="1085" height="561" alt="스크린샷 2025-08-21 오후 2 17 21" src="https://github.com/user-attachments/assets/9a1dea14-17a5-40da-be65-1d7a89f5b298" />
 
 ---
 
@@ -207,8 +220,6 @@
 ### 📌 Label
 
 ---
-
-```
 
 =======
 # frontend
@@ -559,4 +570,5 @@ MoneyBunny-frontend
 └─ vite.config.js
 
 ```
+
 
