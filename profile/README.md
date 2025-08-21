@@ -140,8 +140,6 @@ PM / 백엔드 & 프론트 / DB / CI/CD
 
 ## 🛠️ 개발 환경 및 설치 방법
 
-🛠️ 개발 환경
-
 Language & Framework: Java 17, Spring Boot 3.x, React 18, Node.js 20
 
 Database: MySQL 8.0, Redis
@@ -181,11 +179,9 @@ IDE & Build: IntelliJ IDEA, VS Code, Gradle/Maven
 
 ---
 
-### Comment Convention
-
----
-
 ### 📌 Git 협업 전략
+
+<img width="1086" height="561" alt="스크린샷 2025-08-21 오후 2 23 41" src="https://github.com/user-attachments/assets/329d575a-e8cb-4094-bebc-1968e72a83c9" />
 
 ---
 
@@ -206,18 +202,6 @@ IDE & Build: IntelliJ IDEA, VS Code, Gradle/Maven
 | **Rename**   | 파일/폴더명 변경           |
 | **Remove**   | 파일 삭제                  |
 | **Merge**    | 브랜치 병합                |
-
----
-
-### 📌 Branch
-
----
-
-### 📌 Pull Request Template
-
----
-
-### 📌 Label
 
 ---
 
@@ -570,5 +554,6 @@ MoneyBunny-frontend
 └─ vite.config.js
 
 ```
+
 
 
