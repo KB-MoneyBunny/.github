@@ -140,6 +140,8 @@
 
 > ### 최유정
 
+백엔드
+
 ---
 
 ---
@@ -557,3 +559,4 @@ MoneyBunny-frontend
 └─ vite.config.js
 
 ```
+
