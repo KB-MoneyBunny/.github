@@ -52,32 +52,36 @@
 
 ### 사용 기술
 
-Front-End <br>
-![Vue](https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+### ​​ 사용 기술 (Tech Stack)
 
-<br>
+#### ​ Front-End
+![Vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
----
+#### ​​ Back-End
+![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-Back-End <br>
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-<br>
+#### ​ Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ERDCloud](https://img.shields.io/badge/ERDCloud-00AEEF?style=for-the-badge)
 
----
+#### ​ Tools & IDEs
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-Databases <br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-[![ERDCloud](https://img.shields.io/badge/ERDCloud-Online%20ERD-blue?style=for-the-badge)](https://www.erdcloud.com/)
+#### ​ Auth & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)  
+![OAuth2](https://img.shields.io/badge/OAuth2-3D7EBB?style=for-the-badge)  
+![CSRF](https://img.shields.io/badge/CSRF-FF6F61?style=for-the-badge)
 
----
+#### ​ API & Integration
+![CODEF API](https://img.shields.io/badge/CODEF_API-4F46E5?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & IDEs
-
-![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-
-![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+#### ​ DevOps & Collaboration
+![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -554,6 +558,7 @@ MoneyBunny-frontend
 └─ vite.config.js
 
 ```
+
 
 
 
